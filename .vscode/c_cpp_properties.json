@@ -2,19 +2,19 @@
     "configurations": [
         {
             "name": "CryptRaiderEditor Editor Win64 Development (CryptRaider)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json"
+            "compileCommands": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_CryptRaider.json"
         },
         {
             "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

@@ -1,122 +1,138 @@
 [
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaider.Build.cs",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaider.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaider.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaider.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaider.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderCharacter.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderCharacter.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderGameMode.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderGameMode.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderPlayerController.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderPlayerController.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderProjectile.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\CryptRaiderProjectile.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\Mover.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\Mover.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.cpp",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\TP_PickUpComponent.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "E:\\GameDev\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.h",
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\TP_PickUpComponent.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
-			"@E:\\GameDev\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
 		],
-		"directory": "E:\\Games\\Epic\\UE_5.3\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}
 ]
