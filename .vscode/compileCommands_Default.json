@@ -88,6 +88,22 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "C:\\GameDev\\Crypt-Raider-Unreal-Tutorial\\Source\\CryptRaider\\Mover.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
